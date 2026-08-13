@@ -98,7 +98,3 @@ This workflow builds on:
 - `icet` for cluster expansion construction and fitting
 - `orb-models` (Orbital Materials) for MLIP-based structure relaxation
 - `pymatgen` / `ASE` for structure handling
-
-## License
-
-Add a license (e.g. MIT) here before wider distribution.
